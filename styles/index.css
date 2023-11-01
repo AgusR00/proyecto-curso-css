@@ -1,0 +1,41 @@
+.subtitulo{
+    margin: 15px;
+    padding: 0;
+}
+
+.contenedor{
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.tituloInterno{
+    font-size: 25px;
+    padding: 0 0 0 20px;
+    margin: 0;
+}
+
+.imagen, .imagen2{
+    max-width: 450px;
+    margin: 0 20px;
+    height: auto;
+    
+}
+
+.imagen2{
+   
+    margin-left: auto;
+}
+     
+
+
+p{
+    font-size: 20px;
+    background: linear-gradient(to right, white, rgb(255, 192, 255) );
+    font-family: 'Times New Roman', Times, serif;
+
+
+
+
+}
